@@ -1,0 +1,13 @@
+Four tasks to do in Week of DB class
+
+- create a database
+- drop a database
+- test how to create a database using python
+- test how to create a database using nodejs
+
+
+After executing
+create a database
+drop a database
+test how to create a database using python
+test how to create a database using nodejs.....this needs installation of NodeJs
